@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "tinhoc_records": {
+      ".read": true,
+      ".write": true,
+      ".indexOn": ["grade", "lessonId", "studentClass", "score"]
+    }
+  }
+}
